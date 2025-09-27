@@ -1,0 +1,116 @@
+[
+
+
+
+  {
+    "id": 1,
+    "title": "Login Issue",
+    "rename":"bg-green-400",
+    "text":"text-yellow-500",
+    "description": "User unable to login.",
+    "customer": "John Doe",
+    "priority": "High",
+    "status": "In- Progress",
+    "createdAt": "2025-09-20"
+  },
+  {
+    "id": 2,
+    "title": "Payment Failure",
+        "rename":"bg-green-400",
+    "text":"text-yellow-500",
+    "description": "Payment not going through.",
+    "customer": "Alice",
+    "priority": "Medium",
+    "status": "Open",
+    "createdAt": "2025-09-19"
+  },
+  {
+    "id": 3,
+    "title": "UI Bug",
+    "rename":"bg-yellow-400",
+     "text":"text-green-500",
+    "description": "Buttons misaligned in dashboard.",
+    "customer": "Bob",
+    "priority": "Low",
+    "status": "Open",
+    "createdAt": "2025-09-18"
+  },
+  {
+   "id": 1,
+    "title": "Login Issue",
+    "description": "User unable to login.",
+    "customer": "John Doe",
+    "priority": "High",
+    "status": "Open",
+    "createdAt": "2025-09-20"
+
+
+
+
+  },
+  {
+
+       "id": 1,
+    "title": "Login Issue",
+    "description": "User unable to login.",
+    "customer": "John Doe",
+    "priority": "High",
+    "status": "Open",
+    "createdAt": "2025-09-20"
+  },
+  {
+   "id": 1,
+    "title": "Login Issue",
+    "description": "User unable to login.",
+    "customer": "John Doe",
+    "priority": "High",
+    "status": "In- Progress",
+    "createdAt": "2025-09-20"
+
+
+  },
+  {
+
+       "id": 1,
+    "title": "Login Issue",
+    "description": "User unable to login.",
+    "customer": "John Doe",
+    "priority": "High",
+    "status": "Open",
+    "createdAt": "2025-09-20"
+  },
+
+  {
+
+       "id": 1,
+    "title": "Login Issue",
+    "description": "User unable to login.",
+    "customer": "John Doe",
+    "priority": "High",
+    "status": "Open",
+    "createdAt": "2025-09-20"
+  },
+    {
+
+       "id": 1,
+    "title": "Login Issue",
+    "description": "User unable to login.",
+    "customer": "John Doe",
+    "priority": "High",
+    "status": "Open",
+    "createdAt": "2025-09-20"
+  },
+  {
+
+       "id": 1,
+    "title": "Login Issue",
+    "rename": "bg-red-400",
+    "description": "User unable to login.",
+    "customer": "John Doe",
+    "priority": "High",
+    "status": "In- Progress",
+    "createdAt": "2025-09-20"
+  }
+]
+
+

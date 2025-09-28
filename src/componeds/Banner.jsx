@@ -7,7 +7,7 @@ export default function Banner({ inProgressCount, resolvedCount }) {
 <div className="   bg-gradient-to-r w-180 h-40 text-xl  
  from-blue-500 to-purple-500 items-center ">
   <img className="w-100 absolute text-center items-center bg-cover size-aotu " 
-  src="img/vector2.png" alt="" />
+  src="img/Untitled design.png" alt="" />
 
 
   <p className="items-center mt-10">In Progress: 
@@ -21,7 +21,7 @@ export default function Banner({ inProgressCount, resolvedCount }) {
  bg-gradient-to-r from-green-400 to-green-600">
 
 
-<img className=" absolute w-100 h-50 text-white " src="img/vector1.png" alt="" />
+<img className=" absolute  opacity-12345 shadow-500 w-100 h-50 text-white " src="img/Untitled design.png" alt="" />
       <p className="mt-10">Resolved: <br /> {resolvedCount}</p>
    
 
